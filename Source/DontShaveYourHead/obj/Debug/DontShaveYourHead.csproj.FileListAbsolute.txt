@@ -1,0 +1,5 @@
+C:\Users\mvrak\Documents\DontShaveYourHead\Source\DontShaveYourHead\obj\Debug\DontShaveYourHead.csprojAssemblyReference.cache
+C:\Users\mvrak\Documents\DontShaveYourHead\Source\DontShaveYourHead\obj\Debug\DontShaveYourHead.csproj.CoreCompileInputs.cache
+C:\Users\mvrak\Documents\DontShaveYourHead\Assemblies\DontShaveYourHead.dll
+C:\Users\mvrak\Documents\DontShaveYourHead\Source\DontShaveYourHead\obj\Debug\DontShaveYourHead.csproj.CopyComplete
+C:\Users\mvrak\Documents\DontShaveYourHead\Source\DontShaveYourHead\obj\Debug\DontShaveYourHead.dll

@@ -7,7 +7,7 @@ using System.Reflection.Emit;
 using RimWorld;
 using Verse;
 using UnityEngine;
-using Harmony;
+using HarmonyLib;
 
 namespace DontShaveYourHead
 {
