@@ -13,3 +13,5 @@ Currently supported hair mods include:
 The mod places texture sets called "FullHead" and "UpperHead" within a folder structure equal to the hair's texPath, e.g. the textures for the vanilla Afro would be placed in `Things/Pawn/Humanlike/Hairs/Afro/`. The mod automatically detects properly placed and named textures and will switch to the FullHead/UpperHead texture if the respective BodyPartGroup is covered. If a texture can't be found it will default to Shaved hair, meaning vanilla style hiding of hair.
 
 To make a hair mod compatible all that is needed is for the texture to be in the appropriate place, no def editing necessary.
+
+I attempted to update this to v1.1 and am stuck on RenderPawnInternal's signature change.
